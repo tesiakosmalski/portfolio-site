@@ -1,8 +1,8 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Twenty
+subtitle: by Yo!
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: get to know Tesia's work
 baseurl: "/portfolio-site" # the subpath of your site, e.g. /blog
 url: https://tesiakosmalski.github.io/portfolio-site/
 author:
