@@ -1,8 +1,7 @@
 ---
-title: Regulatory Guide
 layout: page
+title: Regulatory Guide
 nav-menu: true
-
 ---
 
 <!-- Main -->
@@ -12,13 +11,13 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Regulatory Guide</h1>
+			<h1>Elements</h1>
 		</header>
 
 <!-- Content -->
-## Non-Pharmaceutical Skin Lotions & Creams ##
-Updated: May 26, 2020 <br>
-By: Tesia Kosmalski <br>
+<h2 id="content">Non-Pharmaceutical Skin Lotions & Creams</h2>
+Updated: May 26, 2020
+By: Tesia Kosmalski
 
 **Overview**
 As a producer of medicated creams for psoriasis and eczema, we must understand the different
