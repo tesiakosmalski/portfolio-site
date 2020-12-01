@@ -1,0 +1,114 @@
+I"�8<h6 id="may-26-2020">May 26, 2020</h6>
+<p>This research brief presents an overview of the current state of 4D bioprinting for an imagined science, medical, and health company manager.</p>
+
+<hr />
+
+<h2 id="an-overview-of-4d-bioprinting">An Overview of 4D Bioprinting</h2>
+<p>Prepared for MedConsulting Group <br />
+By Tesia Kosmalski <br /></p>
+
+<p><img src="images/bioprint_lab.jpg" alt="4D Bioprinting" /></p>
+<h6 id="bioprinting-lab-university-of-mn">Bioprinting Lab, University of MN</h6>
+
+<hr />
+
+<p><strong>INTRODUCTION</strong></p>
+
+<p>Bioprinting technology is generating much enthusiasm in the world of biomedical research. Both the 3D and 4D approaches share an origin in additive manufacturing and employ materials like plastics and cell constructs to print new types of human tissue. However, 4D bioprinting uses programmable biomaterials called “smart materials.” Objects printed with smart materials can morph over “time,” thereby accounting for the fourth dimension in 4D bioprinting. By reacting in multiple ways to multiple stimuli, these materials can accommodate the complex micro-environments inside the human body. 4D bioprinted objects are overcoming limitations in 3D bioprinting and quickly advancing regenerative medicine, tissue engineering, and drug delivery.</p>
+
+<p>As a company that provides lab and clinical services for life science companies, the majority of our clients are connected to the field of regenerative medicine. Our clients will likely be interested in the potential of 4D bioprinting. This document offers a high level overview of research being done in bioprinting, smart materials, and biomedical applications. This summary will help familiarize our team with the language and landscape that is 4D bioprinting. We can then discuss it with our clients, anticipate potential client needs, and understanding how to fill these needs.</p>
+
+<p></p>
+
+<p><strong>METHODS &amp; RESULTS</strong></p>
+
+<p>A variety of sources were selected to gain an understanding of the current trends in 4D bioprinting research. To evaluate source credibility, I applied the following criteria:</p>
+
+<ul>
+  <li>Consistent appearance in biomedical and scientific databases</li>
+  <li>High number of citations</li>
+  <li>Diversity of authorship</li>
+  <li>Recency of publishing</li>
+</ul>
+
+<p>A biomedical engineering librarian at the University of Minnesota recommended three top biomedical databases. Her recommendations, Engineering Village, PubMed, &amp; Web of Science, were searched using 5 keywords: “4D bioprinting”, “3D bioprinting,” “applications,” “tissues,” “cells,” and “materials.” Results of database queries ranged from 47-15 results, depending on the combination of keywords. The highest number of results was 47, using “4D bioprinting” keyword in the Web of Science database. The lowest number of results was 15, using  “4D bioprinting” and “cells/tissues” in the Engineering Village. Ultimately, additional search inquiries were made in the university library primary open search and the Science Direct database. Four helpful, higher level articles were added as a result of this search. The articles proved to be helpful because they used more accessible language and terminology.</p>
+
+<p><strong>DISCUSSION</strong></p>
+
+<p><strong>Bioprinting &amp; Bioinks</strong> <br />
+The core of the 4D bioprinting story is the story of “smart materials.” 4D “smart materials” are unique in their ability to move and shape. They have the phenomenal property of memorizing the translational path between pre-programmed shapes and the original shape when exposed to an appropriate stimulus (Rastogi, 2019). But, 4D bioprinting materials leverage developments already made in 3D bioprinting.</p>
+
+<p>Both 3D and 4D bioprinting technologies employ bioinks, which are any printable biomaterials. Bioinks are specialized biocompatible materials that fabricate new tissue-mimicking constructs, a.k.a. scaffolds. The biocompatible materials are used to facilitate printing and act as matrices for printed cells. The cells can then be grown into cellular or tissue based vessels for further functional “maturation.” Bioprinting “enables precise fabrication of three-dimensions (3D) heterogeneous functional units for regenerative and developmental biology” (Arslan-Yildiz, et al, 2016).</p>
+
+<p>Polymers, both natural and synthetic, are common in bioprinting. Hydrogels are a type of readily available plastic and are the most reputable material category in bioprinting. Hydrogels exist in a solid, aqueous state and can be controlled easily by changing temperature and humidity. They are biodegradable, biocompatible, and have tailorable mechanical strength, which make them helpful for emulating soft tissue (Lobo, 2019). They are good at resisting physical forces of environments, are cross-linkable, and have a high swelling capacity (Rastogi, 2019). The hydrogel, Alginate, is increasing in popularity. It is a natural linear polysaccharide obtained from the wall of brown algae. It is applied in bioprinting due to its biocompatibility, promotion of cell proliferation, low price and the ability of fast gelation in calcium ion containing solutions. The major limitation of alginate derived hydrogels is mechanical stiffness for 3D bioprinting (Du, 2018).</p>
+
+<p><strong>4D Bioprinting &amp; Smart Materials</strong> <br />
+4D bioprinting can overcome some shortfalls of its 3D counterpart. With smart materials, dynamic structures can actually animate and self-transform depending on the nature of their microenvironment. Smart materials are most commonly referred to as “materials that exhibit changes in physical or chemical properties in a controlled and functional manner upon exposure to an external stimulus, such as heat, moisture, light, magnetic field, or pH” (Tamay, et al, 2019). Thus, their sophisticated responses provide a higher and stronger biocompatibility with the human body.</p>
+
+<p>Smart materials have a series of responsive behaviors or “choreographies” that lead to several types of morphing or “deformations.” Deformations happen in the form of folding, shrinking, and swelling in response to temperature, humidity, light, pressure, and electrical force. Deformation types include multi-way morphing that returns to an original state and one-way morphing that cannot. These two types of deformations put the 4D bioprint into a shape much more complex than a 3D bioprinter can compute or produce, thus mimicking the functions of tissue, organs, or other physiological structures. For example, lipid mixtures are used to print liver tissue or synthetic cells that respond to light and act as neuronal transmissions (Yang, et al, 2019).</p>
+
+<p><strong>Biomedical Applications in Regenerative Medicine</strong> <br />
+Tissue engineering exhibits the most visible signs of progress driven by 4D bioprinting. Smart materials can remember the translational paths of tissue with an accuracy that makes products safe for medical use. In terms of early and recurring research, bone tissue development has had the most extensive applications. The majority of [4D bioprinting] articles are focused on regenerative medicine applications such as improvement on bioprinted cartilage, orthopedics, bone tissue bioprinting, prevascularization on bone tissue constructs, and cartilage tissue engineering” (Lobo, 2019).</p>
+
+<p>Fabricated muscle, skin, nerve, and cardiac tissues have also been safely applied as treatments in various ways. Simulating vascular tissues, necessary to build larger tissues like organs, has been a priority in 4D bioprinting. Tissue as complex as liver tissue demands a sophisticated system for nutrition and oxygen distribution to maintain cell viability. The most successful liver tissue was fabricated “using a decellularized extracellular matrix of the liver and a sacrificial material called Pluronic F-127, combined with immortalized mouse small cholangiocytes and a cancer cell line called HUH7” (Lobo, 2019). Innovations have been made in matching the imperceptibly small vascular setups in the nervous system. Kirillova, et al, managed to break down HA cells, which are astrocytes in the nervous system. Incredibly thin vessels were made by modulating the calcium concentration in the HA cells. With the help of smart materials, the scientists were able to extend the cell coating, and thereby extend the life of the cell to 7 full days inside the body (Rastogi, 2019).
+4D bioprinted containers, which are typically small self-folding cubes, are a canonical example  of use with drug containment and release (Zhang, et al, 2019). Pharmaceutical drugs can emit when the environment of the targeted location provides the correct stimulus. For example, thermoresponsive hydrogels can be used to create drug delivery systems. The Poly(N-isopropylacrylamide) (PNIPAAm) hydrogel demonstrated a swelling behavior that released an active compound upon thermal trigger at the first stage of the body’s inflammation (Jamaroz, 2018).</p>
+
+<p><strong>Moving Forward</strong> <br />
+4D bioprinting is clearly progressing and doing a great deal of good in regenerative medicine. Thus, the technology should be added to our list of services for our clients. Because the technology is already pervasive in the field of osteopathic medicine, we should begin conversations with and assess the needs of these clients. We can research and purchase bioprinters, cells, hydrogels, and other biomaterials used in osteopathic bioprinting. Next, we should understand the research done in vascular systems. Improvements in replicated vascular systems are consistently being made and will eventually form the foundation for most biomedical bioprinting. These discoveries can easily be extended to all of our clients in regenerative medicine.</p>
+
+<p><strong>CONCLUSION</strong></p>
+
+<p>A growing confidence has led to a boon for 4D bioprinting. Printed products can cure without intervention from humans and remedy with precise location mapping. They can imitate natural anatomy by way of tensile strength, porosity, toughness, stiffness, and modulus.
+Thus, captivating the attention of the research and scientists across the world, 4D printing is escalating to face off the challenges of the medical domain with an affirmation to contribute towards diagnosing and curing the suffering of millions of people with its intelligence (Rastogi, 2019).
+Despite issues with biocompatibility, researchers are making strides in the creation of multi-materials. Multi-materials are truer hybrids of cells and polymers and are the secret to an even more accurate future for 4D bioprinting (Yang, et al, 2019). Our company should absolutely look towards this future by discussing the technology with our partners in regenerative medicine. By focusing on osteopathic medicine and, subsequently, vascular systems, we stay in tune with our clients needs and help them maintain prominent positions in a competitive biomedical future.</p>
+
+<p><strong>REFERENCES</strong> <br /></p>
+<ul>
+  <li>
+    <p>Angelats Lobo, D., &amp; Ginestra, P. (2019). Cell Bioprinting: The 3D-BioplotterTM Case. Materials (Basel, Switzerland), 12(23).</p>
+  </li>
+  <li>
+    <p>Arslan-Yildiz, A., Assal, R. E., Chen, P., Guven, S., Inci, F., &amp; Demirci, U. (2016). Towards artificial tissue models: Past, present, and future of 3D bioprinting. Biofabrication, 8(1), 014103.</p>
+  </li>
+  <li>
+    <p>Ashammakhi, N., Ahadian, S., Zengjie, F., Suthiwanich, K., Lorestani, F., Orive, G., Ostrovidov, S., &amp; Khademhosseini, A. (2018). Advances and Future Perspectives in 4D Bioprinting. Biotechnology Journal, 13(12), e1800148.</p>
+  </li>
+  <li>
+    <p>Datta, P., Barui, A., Wu, Y., Ozbolat, V., Moncal, K. K., &amp; Ozbolat, I. T. (2018). Essential steps in bioprinting: From pre- to post-bioprinting. Biotechnology Advances, 36(5), 1481–1504.</p>
+  </li>
+  <li>
+    <p>Frost, B. A., Sutliff, B. P., Thayer, P., Bortner, M. J., &amp; Foster, E. J. (2019). Gradient Poly(ethylene glycol) Diacrylate and Cellulose Nanocrystals Tissue Engineering Composite Scaffolds via Extrusion Bioprinting. Frontiers in Bioengineering and Biotechnology, 7, 280.</p>
+  </li>
+  <li>
+    <p>Gao, B., Yang, Q., Zhao, X., Jin, G., Ma, Y., &amp; Xu, F. (2016). 4D Bioprinting for Biomedical Applications. Trends in Biotechnology, 34(9), 746–756.</p>
+  </li>
+  <li>
+    <p>Heinrich, M. A., Liu, W., Jimenez, A., Yang, J., Akpek, A., Liu, X., Pi, Q., Mu, X., Hu, N., Schiffelers, R. M., Prakash, J., Xie, J., &amp; Zhang, Y. S. (2019). 3D Bioprinting: From Benches to Translational Applications. Small (Weinheim an Der Bergstrasse, Germany), 15(23), e1805510.</p>
+  </li>
+  <li>
+    <p>Jamróz, W., Szafraniec, J., Kurek, M., &amp; Jachowicz, R. (2018). 3D Printing in Pharmaceutical and Medical Applications – Recent Achievements and Challenges. Pharmaceutical Research, 35(9), 176.</p>
+  </li>
+  <li>
+    <p>Kirillova, A., Maxson, R., Stoychev, G., Gomillion, C. T., &amp; Ionov, L. (2017). 4D Biofabrication Using Shape-Morphing Hydrogels. Advanced Materials (Deerfield Beach, Fla.), 29(46).</p>
+  </li>
+  <li>
+    <p>Luo, Y., Lin, X., Chen, B., &amp; Wei, X. (2019a). Cell-laden four-dimensional bioprinting using near-infrared-triggered shape-morphing alginate/polydopamine bioinks. Biofabrication, 11(4), 045019.</p>
+  </li>
+  <li>
+    <p>Miri, A. K., Khalilpour, A., Cecen, B., Maharjan, S., Shin, S. R., &amp; Khademhosseini, A. (2019). Multiscale bioprinting of vascularized models. Biomaterials, 198, 204–216.</p>
+  </li>
+  <li>
+    <p>Rastogi, P., &amp; Kandasubramanian, B. (2019). Review of alginate-based hydrogel bioprinting for application in tissue engineering. Biofabrication, 11(4), 042001.
+Tamay, D. G., Dursun Usal, T., Alagoz, A. S., Yucel, D., Hasirci, N., &amp; Hasirci, V. (2019). 3D and 4D Printing of Polymers for Tissue Engineering Applications. Frontiers in Bioengineering and Biotechnology, 7, 164.</p>
+  </li>
+  <li>
+    <p>Vijayavenkataraman, S., Yan, W.-C., Lu, W. F., Wang, C.-H., &amp; Fuh, J. Y. H. (2018). 3D bioprinting of tissues and organs for regenerative medicine. Advanced Drug Delivery Reviews, 132, 296–332.</p>
+  </li>
+  <li>
+    <p>Wang, Y., Adokoh, C. K., &amp; Narain, R. (2018). Recent development and biomedical applications of self-healing hydrogels. Expert Opinion on Drug Delivery, 15(1), 77–91.</p>
+  </li>
+  <li>
+    <p>Yang, Q., Gao, B., &amp; Xu, F. (2020). Recent Advances in 4D Bioprinting. Biotechnology Journal, 15(1), 1900086.</p>
+  </li>
+</ul>
+:ET
