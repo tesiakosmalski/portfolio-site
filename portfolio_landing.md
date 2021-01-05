@@ -88,10 +88,13 @@ nav-menu: true
 
 <!-- Six -->
 <section id="six">
+<a href="generic.html" class="image">
+	<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+</a>
 	<div class="content">
 		<div class="inner">
-		<header class="major">
-			<h2>Bosch Tools - Wireframes & Annotations </h2>
+		 <header class="major">
+			<h3>Bosch Tools - Wireframes & Annotations </h3>
 		</header>
 		<p>All of my UX skills were used to translate a traditional. paper-based to an online, digital system for the tools manufacturer based in Chicago, IL. I collaborated with clients and other teammates to make wireframes, write instructional text, and log annotations. </p>
 		<ul class="actions">
