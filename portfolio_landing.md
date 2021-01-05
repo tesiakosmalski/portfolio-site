@@ -37,6 +37,8 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+
+
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
@@ -44,11 +46,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Datasite - Virtual Data Rooms & Bulk Rename</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>I wrote instructional text for modals, errors, and interactions at a financial publisher. The company’s primary product - an online platform for virtual data rooms - provides users with “Bulk Rename”, an online editor to rename copious amounts of files at once. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="images/Bulk Rename Modal Flow Diagram.jpg" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
