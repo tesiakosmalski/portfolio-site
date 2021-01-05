@@ -45,6 +45,7 @@ nav-menu: true
 			<header class="major">
 				<h2>User Experience Design</h2>
 			</header>
+			<p>---</p>
 		</div>
 	</section>
 
