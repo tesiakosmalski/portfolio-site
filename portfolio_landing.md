@@ -88,7 +88,7 @@ nav-menu: true
 
 <!-- Six -->
 <section id="six">
-	<div class="inner">
+	<div class="content">
 		<div class="inner">
 		<header class="major">
 			<h2>Bosch Tools - Wireframes & Annotations </h2>
