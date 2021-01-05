@@ -65,7 +65,9 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
+
+	<!-- Five -->
+	<section id="five">
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
@@ -83,8 +85,8 @@ nav-menu: true
 	</section>
 </section>
 
-<!-- Three -->
-<section id="three">
+<!-- Six -->
+<section id="six">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
