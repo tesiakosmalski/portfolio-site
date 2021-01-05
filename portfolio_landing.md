@@ -38,8 +38,18 @@ nav-menu: true
 		</div>
 	</section>
 
+<!-- Three -->
 
-	<section>
+	<section id="three">
+		<div class="inner">
+			<header class="major">
+				<h2>User Experience Design</h2>
+			</header>
+		</div>
+	</section>
+
+<!-- Four-->
+	<section id="four">
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
