@@ -45,7 +45,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 			 <header class="major">
-				<h3>An Overview of 4D Bioprinting - Research Brief </h3>
+				<h3>[Research Brief] An Overview of 4D Bioprinting </h3>
 			</header>
 			<p>I wrote a research brief as a response to a prompt in science, medical, and health writing.</p>
 			<ul class="actions">
@@ -94,7 +94,7 @@ nav-menu: true
 
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="images/MITM Image.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
