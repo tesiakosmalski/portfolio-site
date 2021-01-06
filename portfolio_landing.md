@@ -111,7 +111,7 @@ nav-menu: true
 
 <section>
 <a href="generic.html" class="image">
-	<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+	<img src="{% link assets/images/bioprint_lab.jpg %}" alt="" data-position="25% 25%" />
 </a>
 	<div class="content">
 		<div class="inner">
@@ -126,23 +126,6 @@ nav-menu: true
 	</div>
 </section>
 
-
-<section>
-<a href="generic.html" class="image">
-	<img src="{% link images/bioprint_lab.jpg %}" alt="" data-position="25% 25%" />
-</a>
-	<div class="content">
-		<div class="inner">
-		 <header class="major">
-			<h3>An Overview of 4D Bioprinting - Research Brief </h3>
-		</header>
-		<p>I wrote a research brief as a response to a prompt in science, medical, and health writing.</p>
-		<ul class="actions">
-			<li><a href="writing samples/4D-bioprinting-research-brief.pdf" class="button next">View Research Brief</a></li>
-		</ul>
-	</div>
-	</div>
-</section>
 
 
 
