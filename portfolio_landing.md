@@ -20,7 +20,6 @@ nav-menu: true
 </section>
 
 <!-- Two -->
-
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
@@ -40,14 +39,7 @@ nav-menu: true
 	</section>
 
 <!-- Three -->
-	<section id="three">
-		<div class="inner">
-			<header class="major">
-				<h2>User Experience Design</h2>
-			</header>
-			<p>---</p>
-		</div>
-	</section>
+
 <!-- Four-->
 	<section id="four" class="spotlights">
 		<a href="generic.html" class="image">
