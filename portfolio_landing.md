@@ -38,9 +38,6 @@ nav-menu: true
 		</div>
 	</section>
 
-<!-- Three -->
-
-<section id="three" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
@@ -58,8 +55,7 @@ nav-menu: true
 		</div>
 	</section>
 
-<!-- Four-->
-	<section id="four" class="spotlights">
+	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -77,8 +73,8 @@ nav-menu: true
 		</div>
 	</section>
 
-	<!-- Five -->
-	<section id="five" class="spotlights">
+
+	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
@@ -96,8 +92,7 @@ nav-menu: true
 	</section>
 
 
-<!-- Six -->
-<section id="six" class="spotlights">
+<section>
 <a href="generic.html" class="image">
 	<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 </a>
@@ -114,8 +109,7 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- Seven -->
-<section id="seven" class="spotlights">
+<section>
 <a href="generic.html" class="image">
 	<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 </a>
@@ -132,8 +126,8 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- Eight -->
-<section id="eight" class="spotlights">
+
+<section>
 <a href="generic.html" class="image">
 	<img src="{% link images/bioprint_lab.jpg %}" alt="" data-position="25% 25%" />
 </a>
@@ -150,4 +144,8 @@ nav-menu: true
 	</div>
 </section>
 
-</div>
+
+
+</section>
+
+<!-- Three -->
