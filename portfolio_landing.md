@@ -62,11 +62,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 			 <header class="major">
-				<h3>Regulatory Guide</h3>
+				<h3>[Regulatory Guide] Non-Medicated Lotions & Perfumes</h3>
 			</header>
-			<p>I wrote a regulatory guide.</p>
+			<p>I wrote a regulatory guide in response to a prompt for school.</p>
 			<ul class="actions">
-				<li><a href="writing samples/regulatory-guide.pdf" class="button next">View Regulatory Guide</a></li>
+				<li><a href="writing samples/regulatory-guide.pdf" class="button next">Open Regulatory Guide</a></li>
 			</ul>
 		</div>
 		</div>
@@ -80,7 +80,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Datasite - Virtual Data Rooms & Bulk Rename</h3>
+					<h3>[Flow Diagram] Datasite - Virtual Data Rooms & Bulk Rename</h3>
 				</header>
 				<p>I wrote instructional text for modals, errors, and interactions at a financial publisher. The company’s primary product - an online platform for virtual data rooms - provides users with “Bulk Rename”, an online editor to rename copious amounts of files at once. </p>
 				<ul class="actions">
@@ -99,7 +99,8 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Mind in the Making - User Research </h3>
+					<h3>[User Research Findings] Mind in the Making eLearning Module
+					</h3>
 				</header>
 				<p>I performed user research for an online course aimed to educate people working with families to build life skills in children. </p>
 				<ul class="actions">
@@ -112,16 +113,17 @@ nav-menu: true
 
 <section>
 <a href="generic.html" class="image">
-	<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+	<img src="images/boschTools-cover.jpg" alt="" data-position="25% 25%" />
 </a>
 	<div class="content">
 		<div class="inner">
 		 <header class="major">
-			<h3>Bosch Tools - Wireframes & Annotations </h3>
+			<h3>[Functional Specifications]Bosch Tools - Parts & Services Online </h3>
 		</header>
 		<p>All of my UX skills were used to translate a traditional. paper-based to an online, digital system for the tools manufacturer based in Chicago, IL. I collaborated with clients and other teammates to make wireframes, write instructional text, and log annotations. </p>
 		<ul class="actions">
-			<li><a href="images/Razorfish - Bosch Tools - Wires Annotations.jpg" class="button next">View Wires with Annotations</a></li>
+			<li><a href="images/Razorfish - Bosch Tools - Wires Annotations.jpg" class="button next">Open Sample Wires & Annotations</a></li>
+
 		</ul>
 	</div>
 	</div>
