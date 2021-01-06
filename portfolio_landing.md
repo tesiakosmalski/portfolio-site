@@ -49,7 +49,7 @@ nav-menu: true
 		</div>
 	</section>
 <!-- Four-->
-	<section id="four">
+	<section id="four" class="spotlights">
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -68,7 +68,7 @@ nav-menu: true
 	</section>
 
 	<!-- Five -->
-	<section id="five">
+	<section id="five" class="spotlights">
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
@@ -87,7 +87,7 @@ nav-menu: true
 
 
 <!-- Six -->
-<section id="six">
+<section id="six" class="spotlights">
 <a href="generic.html" class="image">
 	<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 </a>
