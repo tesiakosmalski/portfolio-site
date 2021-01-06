@@ -39,21 +39,39 @@ nav-menu: true
 	</section>
 
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
+	<a href="generic.html" class="image">
+		<img src="images/bioprint_lab.jpg" alt="" data-position="25% 25%" />
+	</a>
 		<div class="content">
 			<div class="inner">
-				<header class="major">
-					<h3>Digital Resource Library Translation Project</h3>
-				</header>
-				<p>I managed a translation project to help Italian students translate library pages for English-speaking international students. I drafted project plan documents, coordinated copy translation, revisions, and expert reviews, proofread the documents, drafted guides for the translation and editing process.</p>
-				<ul class="actions">
-					<li><a href="writing samples/[Project Plan] DRL Translation Project.pdf" class="button">View Project Plan</a></li>
-				</ul>
-			</div>
+			 <header class="major">
+				<h3>An Overview of 4D Bioprinting - Research Brief </h3>
+			</header>
+			<p>I wrote a research brief as a response to a prompt in science, medical, and health writing.</p>
+			<ul class="actions">
+				<li><a href="writing samples/4D-bioprinting-research-brief.pdf" class="button next">View Research Brief</a></li>
+			</ul>
+		</div>
 		</div>
 	</section>
+
+	<section>
+	<a href="generic.html" class="image">
+		<img src="images/bottles.jpg" alt="" data-position="25% 25%" />
+	</a>
+		<div class="content">
+			<div class="inner">
+			 <header class="major">
+				<h3>Regulatory Guide</h3>
+			</header>
+			<p>I wrote a regulatory guide.</p>
+			<ul class="actions">
+				<li><a href="writing samples/regulatory-guide.pdf" class="button next">View Regulatory Guide</a></li>
+			</ul>
+		</div>
+		</div>
+	</section>
+
 
 	<section>
 		<a href="generic.html" class="image">
@@ -108,24 +126,6 @@ nav-menu: true
 	</div>
 	</div>
 </section>
-
-<section>
-<a href="generic.html" class="image">
-	<img src="images/bioprint_lab.jpg" alt="" data-position="25% 25%" />
-</a>
-	<div class="content">
-		<div class="inner">
-		 <header class="major">
-			<h3>An Overview of 4D Bioprinting - Research Brief </h3>
-		</header>
-		<p>I wrote a research brief as a response to a prompt in science, medical, and health writing.</p>
-		<ul class="actions">
-			<li><a href="writing samples/4D-bioprinting-research-brief.pdf" class="button next">View Research Brief</a></li>
-		</ul>
-	</div>
-	</div>
-</section>
-
 
 
 
