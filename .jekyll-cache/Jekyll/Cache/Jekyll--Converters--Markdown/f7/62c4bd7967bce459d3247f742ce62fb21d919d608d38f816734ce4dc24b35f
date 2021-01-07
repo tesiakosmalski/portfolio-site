@@ -1,12 +1,4 @@
----
-title: Portfolio Landing
-layout: landing
-description: 'Tesing testing sed veroeros tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
-nav-menu: true
----
-
-<!-- Main -->
+I"�<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -62,7 +54,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 			 <header class="major">
-				<h3>[Regulatory Guide] Non-Medicated Lotions & Perfumes</h3>
+				<h3>[Regulatory Guide] Non-Medicated Lotions &amp; Perfumes</h3>
 			</header>
 			<p>This writing sample was an exercise in writing for regulated environments. The prompt was to
 create a short guide for an imagined team of science, medical, and health writers. The guide was to
@@ -80,16 +72,16 @@ pharmaceutical and medicated skin creams.</p>
 
 	<section>
 		<a href="generic.html" class="image">
-			<img src="images/bosch_cover.jpg" alt="" data-position="center center" />
+			<img src="/portfolio-site/assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>[Flow Diagram] Datasite - Virtual Data Rooms & Bulk Rename</h3>
+					<h3>[Flow Diagram] Datasite - Virtual Data Rooms &amp; Bulk Rename</h3>
 				</header>
 				<p>I wrote instructional text for modals, errors, and interactions at a financial publisher. The company’s primary product - an online platform for virtual data rooms - provides users with “Bulk Rename”, an online editor to rename copious amounts of files at once. </p>
 				<ul class="actions">
-					<li><a href="images/BulkRename Modal Flow Diagram.jpg" class="button">View Bulk Rename Modal Flow
+					<li><a href="images/Bulk Rename Modal Flow Diagram.jpg" class="button">View Bulk Rename Modal Flow
 					</a></li>
 				</ul>
 			</div>
@@ -99,7 +91,7 @@ pharmaceutical and medicated skin creams.</p>
 
 	<section>
 		<a href="generic.html" class="image">
-			<img src="images/MITM Image.jpg" alt="" data-position="25% 25%" />
+			<img src="images/MITM - Image.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -118,16 +110,16 @@ pharmaceutical and medicated skin creams.</p>
 
 <section>
 <a href="generic.html" class="image">
-	<img src="images/Bosch_Cover.jpg" alt="" data-position="25% 25%" />
+	<img src="images/boschTools-cover.jpg" alt="" data-position="25% 25%" />
 </a>
 	<div class="content">
 		<div class="inner">
 		 <header class="major">
-			<h3>[Functional Specifications]Bosch Tools - Parts & Services Online </h3>
+			<h3>[Functional Specifications]Bosch Tools - Parts &amp; Services Online </h3>
 		</header>
 		<p>All of my UX skills were used to translate a traditional. paper-based to an online, digital system for the tools manufacturer based in Chicago, IL. I collaborated with clients and other teammates to make wireframes, write instructional text, and log annotations. </p>
 		<ul class="actions">
-			<li><a href="images/Razorfish - Bosch Tools - Wires Annotations.jpg" class="button next">Open Sample Wires & Annotations</a></li>
+			<li><a href="images/Razorfish - Bosch Tools - Wires Annotations.jpg" class="button next">Open Sample Wires &amp; Annotations</a></li>
 
 		</ul>
 	</div>
@@ -139,3 +131,5 @@ pharmaceutical and medicated skin creams.</p>
 </section>
 
 <!-- Three -->
+</div>
+:ET

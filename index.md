@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hello! My name is Tesia Kosmalski and I am testing the index'
+landing-title: 'Tesia Kosmalski | Portfolio'
 description: null
 image: null
 author: null
